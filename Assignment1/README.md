@@ -1,6 +1,8 @@
 1. Прочитать основы использования Git 
 
-https://git-scm.com/book/ru/v1/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git и сделать свой первый локальный репозиторий.
+https://git-scm.com/book/ru/v1/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git 
+
+и сделать свой первый локальный репозиторий.
 
 Прочитать справку http://theor.mephi.ru/wiki/index.php?title=Git
 
