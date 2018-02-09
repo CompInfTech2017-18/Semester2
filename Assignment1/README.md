@@ -1,6 +1,11 @@
 1. Прочитать основы использования Git https://git-scm.com/book/ru/v1/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git и сделать свой первый локальный репозиторий.
 Прочитать справку http://theor.mephi.ru/wiki/index.php?title=Git
 
-2. Ознакомиться с примерами простых ООП программ (комплексные числа, модель движения Земли и Луны вокруг Солнца)
+2. Ознакомиться с примерами простых ООП программ (комплексные числа, модель движения Земли и Луны вокруг Солнца)4
+Прочитать про основы ООП
+https://www.ibm.com/developerworks/ru/library/l-python_part_6/index.html
+https://wombat.org.ua/AByteOfPython/object_oriented_programming.html
+https://ru.wikibooks.org/wiki/Python/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA_Python_2.6#%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B
+https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_Python
 
-3. Написать программу для моделирования движения твёрдого тела --- гантели из 2 одинаковых шариков радиуса r и массы m
+3. Написать программу для моделирования движения твёрдого тела --- гантели из 2 одинаковых шариков радиуса r и массы m. Реализуйте программу с использованием ООП:
