@@ -2,6 +2,7 @@
 |Ссылка на задание|Приглашение|Макс. балл|Дедлайн 1|Дедлайн 2|
 |---|---|---|---|---|
 |[Задание 1](./Assignment1) |https://classroom.github.com/a/CXsfDO8A |12|17.02.2018|24.02.2018|
+|[Задание 2](./Assignment2) |https://classroom.github.com/a/vWHJZVmu |24|03.03.2018|10.03.2018|
 
 
 
