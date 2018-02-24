@@ -8,7 +8,7 @@
 |Девятьяров |Desuficator     |          |            |
 |Ковалёв    |                |          |            |
 |Коптев     |                |          |            |
-|Корявченко |IliaKoriavchenko|          |            |
+|Корявченко |IliaKoriavchenko|10 (17.02)|            |
 |Крылов     |                |          |            |
 |Лукьянов   |PavelMephi      |12 (24.02)|            |
 |Лютин      |Lutiras         |          |            |
