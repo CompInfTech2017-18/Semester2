@@ -5,7 +5,6 @@
 |[Задание 2](./Assignment2) |https://classroom.github.com/a/vWHJZVmu |24|03.03.2018|10.03.2018|
 |[Задание 3](./Assignment3) |https://classroom.github.com/a/BKOz4hk- |20|17.03.2018|24.03.2018|
 |[Задание 4](./Assignment4) |https://classroom.github.com/a/0rkJ-PAH |20|07.04.2018|14.04.2018|
-|[Задание 5](./Assignment5) |  |24|28.04.2018| |
 
 
 
